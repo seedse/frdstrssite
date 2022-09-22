@@ -5,4 +5,4 @@ may change in the furute.
 
 This is not a finished product.
 
-This is for EDUCATIONAL PURPOSES.
+This is for EDUCATIONAL PURPOSES, use site at own risk.
