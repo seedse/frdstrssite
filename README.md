@@ -1,8 +1,3 @@
-This is a website reposorory, not much else.
+WRONG BRANCH!!
 
-Current site link is https://seedse.github.io/frdstrssite/
-may change in the furute.
-
-This is not a finished product.
-
-This is for EDUCATIONAL PURPOSES, use site at own risk.
+GO TO CURRENT-MASTER
